@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.npm-cache/
+*.log
+test-results/
+playwright-report/
+evidencias/
+frontend_codigo.zip
